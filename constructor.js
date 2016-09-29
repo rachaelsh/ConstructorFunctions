@@ -19,6 +19,8 @@ var bands = [{
 }
 ];
 
+
+
 //Now create a constructor function called Band. Have it take in a name, genre, numberOfPerformers, and numberOfGroupies. Set the keys to have the value of the parameters using the this keyword.
 
 var Band = function(name, genre, numberOfPerformers, numberOfGroupies){
